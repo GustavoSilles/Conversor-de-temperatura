@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "viva_la_vida",
+    "slug": "viva_la_vida",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "viva_la_vida"
+}
